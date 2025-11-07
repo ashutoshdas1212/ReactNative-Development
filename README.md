@@ -1,4 +1,4 @@
-# 🛍️ React Native Shopping Application 
+#  React Native Shopping Application 
 
 A comprehensive React Native e-commerce application built with modern technologies, featuring user authentication, product browsing, shopping cart management, wishlist functionality, and profile management. This project demonstrates advanced React Native development patterns including Redux state management, navigation, image handling, and API integration.
 
@@ -28,39 +28,39 @@ Video Link: https://drive.google.com/file/d/14JGzB-pFQRHnGiapeR19pzd23ViRHYw5/vi
 
 
 
-## 📍 Repository Location
+##  Repository Location
 
 This project is part of the [ReactNativeDevelopment repository](https://github.com/ashutoshdas1212/ReactNativeTraining/tree/master/LoginSignUp29052025) and is located in the `LoginSignUp29052025` folder. The repository contains multiple React Native training projects, and this specific folder contains the shopping application implementation.
 
-## 📱 Features
+##  Features
 
-### 🔐 Authentication & User Management
+###  Authentication & User Management
 - **Login/Signup System** with OTP validation
 - **Secure Authentication** using JWT tokens
 - **User Profile Management** with image upload
 - **Form Validation** with real-time error handling
 
-### 🛒 Shopping Features
+###  Shopping Features
 - **Product Catalog** with detailed product information
 - **Shopping Cart** with quantity management
 - **Wishlist** functionality to save favorite items
 - **Product Search** and filtering capabilities
 - **Checkout Process** with order management
 
-### 🎨 User Interface
+###  User Interface
 - **Modern UI/UX** with custom components
 - **Responsive Design** for different screen sizes
 - **Dark/Light Theme** support
 - **Smooth Animations** and transitions
 - **Custom Fonts** (Poppins family)
 
-### 📱 Navigation
+###  Navigation
 - **Bottom Tab Navigation** for main sections
 - **Drawer Navigation** for additional features
 - **Stack Navigation** for detailed screens
 - **Deep Linking** support
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Quick Start
 1. Clone the repository from the specific folder:
@@ -75,7 +75,7 @@ This project is part of the [ReactNativeDevelopment repository](https://github.c
 
 > **Note**: This project is located in the `LoginSignUp29052025` folder within the [ReactNativeTraining repository](https://github.com/ashutoshdas1212/ReactNativeTraining/tree/master/LoginSignUp29052025). Make sure to navigate to the correct folder after cloning.
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -109,7 +109,7 @@ src/
 └── SignUp.js              # Registration screen
 ```
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Core Technologies
 - **React Native** 0.79.2 - Cross-platform mobile development
@@ -158,7 +158,7 @@ The app connects to a backend API. Update the API endpoints in:
 - `src/redux/authSlice.js` - Authentication endpoints
 - `src/wishlist/wishlistSlice.js` - Wishlist API endpoints
 
-## 📱 Screenshots
+##  Screenshots
 
 The application includes the following key screens:
 
@@ -171,7 +171,7 @@ The application includes the following key screens:
 - **User Profile**: Profile management with image upload capabilities
 - **OTP Validation**: Two-factor authentication for secure login
 
-## 🎯 Project Explanation
+##  Project Explanation
 
 ### Overview
 This React Native application is a complete e-commerce solution that demonstrates modern mobile app development practices. The project showcases:
@@ -247,7 +247,7 @@ The application follows a modular architecture pattern:
    - Ensure all required permissions are granted
    - Check AndroidManifest.xml for permission declarations
 
-## 🚀 Development Features
+##  Development Features
 
 ### Authentication Flow
 1. **Login Screen** - Email/password authentication with validation
@@ -299,7 +299,7 @@ The application is organized into logical modules:
 - **Navigation Module**: Drawer, tab, and stack navigation
 - **State Management**: Redux store with slices for different features
 
-## 🔧 Configuration
+##  Configuration
 
 ### API Endpoints
 The app connects to backend services for:
@@ -320,11 +320,11 @@ The app connects to backend services for:
 3. **iOS build issues**: `cd ios && pod install && cd .. && npx react-native run-ios`
 4. **Permission issues**: Check AndroidManifest.xml for proper permission declarations
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - React Native community for excellent documentation
 - Contributors to the open-source libraries used
@@ -332,4 +332,4 @@ This project is licensed under the MIT License.
 
 ---
 
-⭐ **This project demonstrates advanced React Native development practices and modern mobile app architecture.**
+ **This project demonstrates advanced React Native development practices and modern mobile app architecture.**
